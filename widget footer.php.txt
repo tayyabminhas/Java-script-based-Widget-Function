@@ -1,0 +1,5 @@
+ <ul class="navbar-nav mr-auto">
+        <?php  
+            dynamic_sidebar('Function-widget-slug-code')
+        ?>
+    </ul>
